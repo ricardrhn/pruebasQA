@@ -1,0 +1,9 @@
+{
+
+    "usuario":"standard_user",
+    "password":"secret_sauce",
+    "usuarioIncorrecto":"locked_out_user",
+    "contrasenaIncorrecta":"wrong_password"
+
+}
+
